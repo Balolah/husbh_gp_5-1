@@ -15,6 +15,6 @@ We used Flutter, which is a framework that uses Dart language, and Unity, which 
 7- Once the downloading is finished, all files will be displayed on the left then click on “Run” in main.dart file\
 \
 \
-OR
+OR\
 Build the .apk file from this command "flutter build apk", and run the application on a device that supports Augmented Reality (AR).
 See the supported Android devices for the AR: https://developers.google.com/ar/devices
