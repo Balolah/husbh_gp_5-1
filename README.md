@@ -12,7 +12,7 @@ We used Flutter, which is a framework that uses Dart language, and Unity, which 
 4- Paste the URL then click on “Clone from Github”\
 5- Get packages\
 6- Launch the emulator\
-7- Once the downloading is finished, all files will be displayed on the left then click on “Run” in main.dart file
+7- Once the downloading is finished, all files will be displayed on the left then click on “Run” in main.dart file\
 
 OR
 Build the .apk file from this command "flutter build apk", and run the application on a device that supports Augmented Reality (AR).
